@@ -1,10 +1,4 @@
-for Reza_javad_khanomagha github
-
-
-
-
-
-
+for Mohsen_javad_khanomagha github
 
 sudo apt-get remove docker docker-engine docker.io containerd runc
 
