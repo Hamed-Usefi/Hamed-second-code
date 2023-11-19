@@ -1,8 +1,4 @@
-for HamedAndTooba github
-
-
-
-
+for Makan github
 
 sudo apt-get remove docker docker-engine docker.io containerd runc
 
