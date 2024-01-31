@@ -1,4 +1,10 @@
-for Javadkhan github
+for Ali github
+
+
+
+
+
+
 
 sudo apt-get remove docker docker-engine docker.io containerd runc
 
