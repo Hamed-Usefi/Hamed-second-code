@@ -1,8 +1,4 @@
-for Rostame_Dastan github
-
-
-
-
+for Sarbedaran github
 
 sudo apt-get remove docker docker-engine docker.io containerd runc
 
