@@ -1,14 +1,4 @@
-for Entekhabi_motmaen github
-
-
-
-
-
-
-
-
-
-
+for Shesh_bajenagh_man github
 
 sudo apt-get remove docker docker-engine docker.io containerd runc
 
