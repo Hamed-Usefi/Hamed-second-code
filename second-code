@@ -1,6 +1,4 @@
-for New_Trust_Wallet github
-
-
+for My_tonkeeper_wallet github
 
 sudo apt-get remove docker docker-engine docker.io containerd runc
 
