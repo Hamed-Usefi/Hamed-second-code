@@ -1,7 +1,4 @@
-for My_Atomic_Wallet github
-
-
-
+for Personal_local_space github
 
 sudo apt-get remove docker docker-engine docker.io containerd runc
 
